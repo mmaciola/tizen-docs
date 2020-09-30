@@ -20,6 +20,22 @@ NUI offers the following main features:
 -   Easy-to-use [animation framework](animation.md) which hides the complexity of the underlying three-dimensional math
 -   Keyboard, touch, and mouse handling
 
+Some reference Applications:
+<table style="text-align:center;">
+  <tr>
+    <th><img src="https://github.com/dalihub/nui-demo/blob/master/wearable-samples/res/wapps.png"/></th>
+    <th><img src="https://github.com/dalihub/nui-demo/blob/master/wearable-samples/res/wgallery.png"/></th>
+    <th><img src="https://github.com/dalihub/nui-demo/blob/master/wearable-samples/res/wmessege.png"/></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td><a href="./ReferenceApplication/WApps/README.md">WApps</a></td>
+    <td><a href="./ReferenceApplication/WGallery/README.md">WGallery</a></td>
+    <td><a href="./ReferenceApplication/WMessage/README.md">WMessage</a></td>
+    <td><a href="./ReferenceApplication/WHome">WHome</a></td>
+  </tr>
+</table>
+
 <a name="concepts"></a>
 ## Key Concepts
 
